@@ -1,0 +1,47 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "Green Valley Apartment",
+      "location": "Bengaluru",
+      "type": "Apartment",
+      "bedrooms": 2,
+      "rent": 25000,
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267",
+      "description": "A comfortable apartment in a peaceful location."
+    },
+    {
+      "id": "2",
+      "name": "Sunshine Villa",
+      "location": "Mysuru",
+      "type": "Villa",
+      "bedrooms": 3,
+      "rent": 35000,
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "description": "A spacious villa with modern facilities."
+    },
+    {
+      "id": "3",
+      "name": "City View Studio",
+      "location": "Bengaluru",
+      "type": "Studio",
+      "bedrooms": 1,
+      "rent": 18000,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+      "description": "A modern studio suitable for working professionals."
+    }
+  ],
+  "enquiries": [
+    {
+      "propertyId": "2",
+      "propertyName": "Sunshine Villa",
+      "name": "Thejaswini Surendra gowda",
+      "email": "thejaswinisurendragowda@gmail.com",
+      "phone": "8088158030",
+      "message": "Background verification",
+      "status": "Pending",
+      "id": "BY7UWHfiscQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
